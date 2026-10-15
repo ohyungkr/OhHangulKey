@@ -1,0 +1,20 @@
+# 보안 및 기본 제외 디렉토리
+docs/
+./docs/
+.agent/
+./.agent/
+
+# 빌드 산출물
+*.obj
+*.res
+*.ilk
+*.pdb
+*.exe
+*.ini
+build/
+bin/
+obj/
+out/
+.vs/
+*.user
+*.suo
