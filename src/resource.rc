@@ -1,0 +1,6 @@
+#include <windows.h>
+#include "resource.h"
+
+// 애플리케이션 트레이 아이콘 리소스
+IDI_APP_ICON      ICON "..\\assets\\app.ico"
+IDI_APP_ICON_OFF  ICON "..\\assets\\app_off.ico"
